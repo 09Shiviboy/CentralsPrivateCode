@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: '',
         prefix: 'C!',
-        activity: 'C!help｜Happy Halloween',
+        activity: 'C!help｜🎃Happy Halloween🎃',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
