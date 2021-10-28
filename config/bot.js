@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: '',
         prefix: 'C!',
-        activity: 'C!help｜🎃Happy Halloween🎃',
+        activity: 'C Net Music Will Be Shutting Down For Sometime',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
